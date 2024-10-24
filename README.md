@@ -5,3 +5,4 @@ This repository accompanies our paper
 
 
 # The repository will be filled out promptly.
+(In the meantime, access to my personal repository can be granted upon request.)
