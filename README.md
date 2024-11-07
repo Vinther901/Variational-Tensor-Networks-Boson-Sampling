@@ -14,16 +14,21 @@ This repository accompanies the paper [arXiv:2410.18740](https://arxiv.org/abs/2
     - Fig7
 2. [ Code ](#code)
     - ...
+3. [ Extension to Boson sampling ](#nonCVextension)
     
 [[ Installation ](#installation) | [ Citation ](#citation) | [ License ](#license) | [ Acknowledgments ](#acknowledgments) ]
 
 <a name="data"></a>
-## 1. Data
+## 1. [ Data ](./Data)
 Contains the data related to the figures of the paper and the necessary steps for reconstructing the results.
 
 <a name="code"></a>
-## 2. Code
+## 2. [ Code ](./Code)
 Contains an overview of the scripts developed for the project and how to use them.
+
+<a name="nonCVextension"></a>
+## 3. [ Extension to Boson sampling ](./Extension_to_Boson_Sampling.ipynb)
+Is a notebook with a simple example of how to use our tool for Boson sampling. Evidently it is commonly referred to as [ Scattershot Boson sampling ](https://strawberryfields.ai/photonics/demos/run_scattershot_bs.html).
 
 <a name="installation"></a>
 ## <mark> Installation
