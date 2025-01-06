@@ -1,6 +1,3 @@
-# <mark> The repository is under construction.</mark>
-<mark>(In the meantime, access to my personal repository can be granted upon request.)</mark>
-
 This repository accompanies the paper [arXiv:2410.18740](https://arxiv.org/abs/2410.18740) - Jonas Vinther & Michael J. Kastoryano:
 # "Variational Tensor Network Simulation of Gaussian Boson Sampling and Beyond"
 
@@ -31,9 +28,9 @@ Contains an overview of the scripts developed for the project and how to use the
 Is a notebook with a simple example of how to use our tool for Boson sampling. Evidently it is commonly referred to as [ Scattershot Boson sampling ](https://strawberryfields.ai/photonics/demos/run_scattershot_bs.html).
 
 <a name="installation"></a>
-## <mark> Installation
+## Installation
 **Environment Requirements**:
-Install environment:
+An overview of the environment used for development is found in 'requirements.txt' and to install this environment run:
 ```
 conda env create -f environment.yml
 ```
