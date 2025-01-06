@@ -10,7 +10,10 @@ This repository accompanies the paper [arXiv:2410.18740](https://arxiv.org/abs/2
     - Fig6bc
     - Fig7
 2. [ Code ](#code)
-    - ...
+    - script.py
+    - DataGeneration.py
+    - OverviewOfConsiderationsForParameterizedLBO.ipynb
+    - VariationalSimulationOfGBS.ipynb
 3. [ Extension to Boson sampling ](#nonCVextension)
     
 [[ Installation ](#installation) | [ Citation ](#citation) | [ License ](#license) | [ Acknowledgments ](#acknowledgments) ]
