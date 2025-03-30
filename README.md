@@ -1,4 +1,5 @@
 This repository accompanies the paper [arXiv:2410.18740](https://arxiv.org/abs/2410.18740) - Jonas Vinther & Michael J. Kastoryano:
+(The [latest manuscript](./LatestManuscript.pdf), which has been sent for review, provides a more general variational formulation.)
 # "Variational Tensor Network Simulation of Gaussian Boson Sampling and Beyond"
 
 ## Repository Structure:
